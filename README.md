@@ -81,8 +81,8 @@ Query "How do I pay?" restricted to `category = Finance`:
 
 ## 5. Screenshots
 
-![Search results part 1](screenshots/results_1.png)
-![Search results part 2](screenshots/results_2.png)
+![Search results part 1](screenshots/results_1.PNG)
+![Search results part 2](screenshots/results_2.PNG)
 
 ## 6. Review of Results
 
